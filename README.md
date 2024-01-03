@@ -1,3 +1,4 @@
+![Screenshot (38)](https://github.com/Prachi07sachan/Currency-Convertor/assets/116246689/76dbcf7f-5534-4011-ae9a-cbe2642eac9d)
 # Currency Converter
 check out my project over here-
 https://currency-converter-24adaf.netlify.app
