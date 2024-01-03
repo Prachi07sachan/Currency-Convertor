@@ -14,14 +14,6 @@ A javascript app providing real-time exchange rate information to help users con
 - [x] Switch conversion pairs with one-click "swap"
 - [x] Show loading indicator on data retrieval
 
-### Requirements
 
-**Freecurrency API Key**
-
-1. Go to [Freecurrency API](https://freecurrencyapi.com/)
-2. Register and get your own API Key
-
-### Resources
-
-- [Freecurrency API](https://freecurrencyapi.com/)
-- [Google Fonts](https://fonts.google.com/)
+check out my project over here-
+https://currency-converter-24adaf.netlify.app
