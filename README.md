@@ -1,4 +1,7 @@
 # Currency Converter
+check out my project over here-
+https://currency-converter-24adaf.netlify.app
+
 
 A javascript app providing real-time exchange rate information to help users convert currencies from one value to another.
 
@@ -15,5 +18,3 @@ A javascript app providing real-time exchange rate information to help users con
 - [x] Show loading indicator on data retrieval
 
 
-check out my project over here-
-https://currency-converter-24adaf.netlify.app
